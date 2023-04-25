@@ -12,9 +12,9 @@ This repository contains all the project files and necessary details about appli
 
 | Title                           | Description                                                                                        | Link                                                                                                            |
 | ------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Requirements :heavy_check_mark: | Requirements and essential links to get started with the project                                   | [:point_down: Refer](https://github.com/vishalnannore/FeedTheNeed-A-Charity-Organization#2-requirements-heavy_check_mark) |
-| Setup :small_red_triangle_down: | How to setup complete project inside your local system - Windows 10                                | [:point_down: Refer](https://github.com/vishalnannore/FeedTheNeed-A-Charity-Organization#3-setup-small_red_triangle_down) |
-| Project Guide :page_with_curl:  | Reference documentation of overall project, it's application, and how to present and showcase demo | [:point_down:Refer](https://github.com/vishalnannore/FeedTheNeed-A-Charity-Organization#4-project-guide)                  |
+| Requirements :heavy_check_mark: | Requirements and essential links to get started with the project                                   | [:point_down: Refer](https://github.com/vishalnannore/FeedTheNeed-A-Charity-Organization#1-requirements-heavy_check_mark) |
+| Setup :small_red_triangle_down: | How to setup complete project inside your local system - Windows 10                                | [:point_down: Refer](https://github.com/vishalnannore/FeedTheNeed-A-Charity-Organization#2-setup-small_red_triangle_down) |
+| Project Guide :page_with_curl:  | Reference documentation of overall project, it's application, and how to present and showcase demo | [:point_down:Refer](https://github.com/vishalnannore/FeedTheNeed-A-Charity-Organization#3-project-guide)                  |
 | Troubleshooting Issues :muscle: | Guide to resolve errors faced during reproducibility                                               | To be Updated                                                                                                   |
 
 <hr>
@@ -62,35 +62,35 @@ Installing WAMP Web Server and running a local server on your machine is crucial
 
 2. Once you have downloaded, Install the with the following settings.
 
-<img title="Wamp Installlation Step 1" src="./readme_attachments/wamp_installation_1.png" alt="Step 1">
+<img title="Wamp Installlation Step 1" src="./FeedTheNeed/readme_attachments/wamp_installation_1.png" alt="Step 1">
 
-<img title="Wamp Installlation Step 2" src="./readme_attachments/wamp_installation_2.png" alt="Step 2">
+<img title="Wamp Installlation Step 2" src="./FeedTheNeed/readme_attachments/wamp_installation_2.png" alt="Step 2">
 
 After this, it will take some time and then install it. After some time, it will ask for a prompt on choosing the default browser on which your local server will be hosted. It initially shows me Edge, but I wish to change it to Google Chrome. 
 
-<img title="Wamp Installlation Step 3" src="./readme_attachments/wamp_installation_3.png" alt="Step 3">
+<img title="Wamp Installlation Step 3" src="./FeedTheNeed/readme_attachments/wamp_installation_3.png" alt="Step 3">
 
 For changing it to Google Chrome, Just select Yes here, and then find where you have installed Google Chrome on your system. In my case, It's at the following directory.
 
-<img title="Wamp Installlation Step 4" src="./readme_attachments/wamp_installation_4.png" alt="Step 4">
+<img title="Wamp Installlation Step 4" src="./FeedTheNeed/readme_attachments/wamp_installation_4.png" alt="Step 4">
 
 Once we have chosen browser, It will ask for Code editor in a similar fashion. 
 
-<img title="" src="./readme_attachments/wamp_installation_5.png" alt="">
+<img title="" src="./FeedTheNeed/readme_attachments/wamp_installation_5.png" alt="">
 
 By default it will set Notepad Windows Application, but as we prefer and have already setup Visual Studio Code Editor, we will go ahead and select it from the installed directory.
 
-<img title="" src="./readme_attachments/wamp_installation_6.png" alt="">
+<img title="" src="./FeedTheNeed/readme_attachments/wamp_installation_6.png" alt="">
 
 This will complete the installation of WAMP Server in our system.
 
 To verify WAMP is successfully installed and the Server is running on your system, search for WAMP in your start menu applications and then run it as "administrator"
 
-<img title="" src="./readme_attachments/running_wamp_1.png" alt="">
+<img title="" src="./FeedTheNeed/readme_attachments/running_wamp_1.png" alt="">
 
 Once you run it, after few seconds, a green color wamp icon **should** appear on your tray icon.
 
-<img title="" src="./readme_attachments/running_wamp_2.png" alt="">
+<img title="" src="./FeedTheNeed/readme_attachments/running_wamp_2.png" alt="">
 
 If the color is anything but green, it looks like there is some issue while running the server.
 
@@ -106,11 +106,11 @@ If the color is anything but green, it looks like there is some issue while runn
 
 3. By default, the Username is "root" & and empty password. If this is not the case for you, you will need to change your username & password.
 
-<img title="" src="./readme_attachments/login_wamp.png" alt="">
+<img title="" src="./FeedTheNeed/readme_attachments/login_wamp.png" alt="">
 
 4. Once we are logged in, we should create our database schema. To do so, select new from left panel, enter name of database as "hack" and then hit create button.
 
-<img title="" src="./readme_attachments/building_db_1.png" alt="">
+<img title="" src="./FeedTheNeed/readme_attachments/building_db_1.png" alt="">
 
 ---
 
