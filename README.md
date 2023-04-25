@@ -132,7 +132,7 @@ One of the most difficult tasks is the selection of correct version of software.
 3. WAMPP web server
 4. Brackets web editor
 
-## Description of FMS
+## Description of Project
 
 The organization aims at satisfying the requirements to feed people through donations over the internet. The application shall ask the user/donor to register his/her details into the website and then he/she can log in and donate, contribute, and help financially. Similarly, people can register on the website and then attend the events, donate food, money. Also, a donor can view the list of items put up by seekers and can donate the same, if possible. In the same way, donors can contribute the donated item by contacting our organization. The application is developed using web services.
 
