@@ -1,7 +1,8 @@
 ![](./logo.jpg)
 # FeedTheNeed-A-Charity-Organization (FTN)
 ###   Project Guide
-   Mr. Upendra Singh
+  Dr. Lalit Purohit
+  Mr. Upendra Singh
 ###  Team members name 
    
    1. Vishal Nannore
